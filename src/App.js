@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hello from my first React App!!
+            Hello from my first React App deployed on AWS using Travis-CI and EB!!
           </p>
           <a
             className="App-link"
